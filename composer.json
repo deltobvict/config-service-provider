@@ -26,10 +26,5 @@
     },
     "autoload": {
         "psr-0": { "deltobvict\\Silex": "src" }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.2-dev"
-        }
     }
 }
